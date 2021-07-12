@@ -16,7 +16,7 @@
 
 #### 使用说明
 
-1.首先要安装有node.js
+1.首先要安装有node.js ，下载网易云音乐的接口，启动网易云音乐的接口
 
 2.然后安装有微信小程序开发者工具
 
@@ -42,9 +42,9 @@
 
 
 
-##### 主页           
+##### 主页        
 
-![首页](C:\Users\nyb\Pictures\demo_云音乐\首页.PNG)
+![首页](https://gitee.com/nongstudy/images/raw/master/demo_%E4%BA%91%E9%9F%B3%E4%B9%90/%E9%A6%96%E9%A1%B5.PNG)
 
 
 
@@ -52,7 +52,7 @@
 
 ##### 视频中心
 
-![](C:\Users\nyb\Pictures\demo_云音乐\视频中心.PNG)
+![视频中心](https://gitee.com/nongstudy/images/raw/master/demo_%E4%BA%91%E9%9F%B3%E4%B9%90/%E8%A7%86%E9%A2%91%E4%B8%AD%E5%BF%83.PNG)
 
 
 
@@ -60,27 +60,27 @@
 
 
 
-![个人中心页面](C:\Users\nyb\Pictures\demo_云音乐\个人中心页面.PNG)
+![个人中心页面](https://gitee.com/nongstudy/images/raw/master/demo_%E4%BA%91%E9%9F%B3%E4%B9%90/%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83%E9%A1%B5%E9%9D%A2.PNG)
 
 ##### 搜索页面
 
 
 
-![搜索页面](C:\Users\nyb\Pictures\demo_云音乐\搜索页面.PNG)
+![搜索页面](https://gitee.com/nongstudy/images/raw/master/demo_%E4%BA%91%E9%9F%B3%E4%B9%90/%E6%90%9C%E7%B4%A2%E9%A1%B5%E9%9D%A2.PNG)
 
 
 
-![搜索结果页面](C:\Users\nyb\Pictures\demo_云音乐\搜索结果页面.PNG)
+![搜索结果页面](https://gitee.com/nongstudy/images/raw/master/demo_%E4%BA%91%E9%9F%B3%E4%B9%90/%E6%90%9C%E7%B4%A2%E7%BB%93%E6%9E%9C%E9%A1%B5%E9%9D%A2.PNG)
 
 ##### 播放页面
 
 
 
-![播放页面](C:\Users\nyb\Pictures\demo_云音乐\播放页面.PNG)
+![播放页面](https://gitee.com/nongstudy/images/raw/master/demo_%E4%BA%91%E9%9F%B3%E4%B9%90/%E6%92%AD%E6%94%BE%E9%A1%B5%E9%9D%A2.PNG)
 
 ##### 歌单页面
 
 
 
-![歌单页面](C:\Users\nyb\Pictures\demo_云音乐\歌单页面.PNG)
+![歌单页面](https://gitee.com/nongstudy/images/raw/master/demo_%E4%BA%91%E9%9F%B3%E4%B9%90/%E6%AD%8C%E5%8D%95%E9%A1%B5%E9%9D%A2.PNG)
 
